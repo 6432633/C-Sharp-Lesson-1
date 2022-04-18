@@ -50,7 +50,7 @@ namespace C_Sharp_Lesson_1
                 //some code here
             }
             string str = "hello";
-            if (str = "Hello" || str = "hello")
+            if (str == "Hello" || str == "hello")
             {
                 //some code here
             }
