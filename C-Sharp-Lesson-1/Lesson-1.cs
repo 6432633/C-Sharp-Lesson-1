@@ -65,7 +65,7 @@ namespace C_Sharp_Lesson_1
             w -= r; // w = w - r;
             w *= r; // w = w * r;
             w /= r; // w = w / r;
-            w %/ r; // w = w % r;
+            w %= r; // w = w % r;
             //unary operator
             ++w;
             w++;
